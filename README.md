@@ -19,3 +19,13 @@ This project analyzes player behavior and performance patterns in a gaming envir
 Excel → Data cleaning, analysis, and chart creation.
 
 PowerPoint (PDF) → Final presentation with insights and recommendations.
+
+**Recommendations**
+
+Focus retention efforts on players in their first 3–6 months, as churn risk is highest during this period.
+
+Introduce loyalty rewards or in-game incentives to improve engagement for high-churn segments.
+
+Monitor player satisfaction by geography, as churn trends varied by region.
+
+Use churn prediction insights to guide marketing strategies and improve customer lifetime value.
