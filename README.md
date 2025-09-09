@@ -4,7 +4,7 @@
 
 This project analyzes player behavior and performance patterns in a gaming environment to identify trends, risks, and opportunities for improving player engagement. Using Excel for data cleaning, calculations, and charting, and PowerPoint for presenting findings, the analysis highlights key drivers of player activity and churn.
 
-** Key Questions Analyzed **
+**Key Questions Analyzed**
 
 * What are the main factors influencing player engagement?
 
